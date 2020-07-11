@@ -2,7 +2,6 @@ import strategies.FileStrategy;
 import strategies.RandomStrategy;
 import strategies.StdInStrategy;
 
-import java.io.InputStream;
 import java.util.Scanner;
 
 public class Main {
